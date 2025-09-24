@@ -1,0 +1,25 @@
+[2.059s] Invoking command in '/home/user/ros2_ws/src/robot_description': PYTHONPATH=/home/user/ros2_ws/install/robot_description/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 setup.py egg_info --egg-base ../../build/robot_description build --build-base /home/user/ros2_ws/build/robot_description/build install --prefix /home/user/ros2_ws/install/robot_description --record /home/user/ros2_ws/build/robot_description/install.log --single-version-externally-managed
+[2.288s] running egg_info
+[2.289s] writing ../../build/robot_description/robot_description.egg-info/PKG-INFO
+[2.289s] writing dependency_links to ../../build/robot_description/robot_description.egg-info/dependency_links.txt
+[2.289s] writing entry points to ../../build/robot_description/robot_description.egg-info/entry_points.txt
+[2.290s] writing requirements to ../../build/robot_description/robot_description.egg-info/requires.txt
+[2.290s] writing top-level names to ../../build/robot_description/robot_description.egg-info/top_level.txt
+[2.292s] reading manifest file '../../build/robot_description/robot_description.egg-info/SOURCES.txt'
+[2.293s] writing manifest file '../../build/robot_description/robot_description.egg-info/SOURCES.txt'
+[2.293s] running build
+[2.293s] running build_py
+[2.293s] running install
+[2.294s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[2.294s]   warnings.warn(
+[2.295s] running install_lib
+[2.295s] running install_data
+[2.296s] copying urdf/robot.urdf -> /home/user/ros2_ws/install/robot_description/share/robot_description/urdf
+[2.296s] creating /home/user/ros2_ws/install/robot_description/share/robot_description/meshes
+[2.296s] copying meshes/chassis.stl -> /home/user/ros2_ws/install/robot_description/share/robot_description/meshes
+[2.296s] running install_egg_info
+[2.297s] removing '/home/user/ros2_ws/install/robot_description/lib/python3.10/site-packages/robot_description-0.0.0-py3.10.egg-info' (and everything under it)
+[2.298s] Copying ../../build/robot_description/robot_description.egg-info to /home/user/ros2_ws/install/robot_description/lib/python3.10/site-packages/robot_description-0.0.0-py3.10.egg-info
+[2.299s] running install_scripts
+[2.318s] writing list of installed files to '/home/user/ros2_ws/build/robot_description/install.log'
+[2.340s] Invoked command in '/home/user/ros2_ws/src/robot_description' returned '0': PYTHONPATH=/home/user/ros2_ws/install/robot_description/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 setup.py egg_info --egg-base ../../build/robot_description build --build-base /home/user/ros2_ws/build/robot_description/build install --prefix /home/user/ros2_ws/install/robot_description --record /home/user/ros2_ws/build/robot_description/install.log --single-version-externally-managed
