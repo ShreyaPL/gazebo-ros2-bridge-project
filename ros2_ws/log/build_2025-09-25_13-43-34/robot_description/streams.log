@@ -1,0 +1,34 @@
+[0.881s] Invoking command in '/home/shreya/masterclass_construct/gazebo-ros2-bridge-project/ros2_ws/build/robot_description': PYTHONPATH=/home/shreya/masterclass_construct/gazebo-ros2-bridge-project/ros2_ws/build/robot_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/shreya/masterclass_construct/gazebo-ros2-bridge-project/ros2_ws/install/robot_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/shreya/masterclass_construct/gazebo-ros2-bridge-project/ros2_ws/build/robot_description/build --no-deps symlink_data
+[1.230s] running develop
+[1.548s] running egg_info
+[1.549s] creating robot_description.egg-info
+[1.549s] writing robot_description.egg-info/PKG-INFO
+[1.549s] writing dependency_links to robot_description.egg-info/dependency_links.txt
+[1.549s] writing entry points to robot_description.egg-info/entry_points.txt
+[1.549s] writing requirements to robot_description.egg-info/requires.txt
+[1.549s] writing top-level names to robot_description.egg-info/top_level.txt
+[1.550s] writing manifest file 'robot_description.egg-info/SOURCES.txt'
+[1.551s] reading manifest file 'robot_description.egg-info/SOURCES.txt'
+[1.552s] writing manifest file 'robot_description.egg-info/SOURCES.txt'
+[1.555s] running build_ext
+[1.556s] Creating /home/shreya/masterclass_construct/gazebo-ros2-bridge-project/ros2_ws/install/robot_description/lib/python3.10/site-packages/robot-description.egg-link (link to .)
+[1.557s] 
+[1.557s] Installed /home/shreya/masterclass_construct/gazebo-ros2-bridge-project/ros2_ws/build/robot_description
+[1.557s] running symlink_data
+[1.557s] creating /home/shreya/masterclass_construct/gazebo-ros2-bridge-project/ros2_ws/install/robot_description/share/ament_index
+[1.558s] creating /home/shreya/masterclass_construct/gazebo-ros2-bridge-project/ros2_ws/install/robot_description/share/ament_index/resource_index
+[1.558s] creating /home/shreya/masterclass_construct/gazebo-ros2-bridge-project/ros2_ws/install/robot_description/share/ament_index/resource_index/packages
+[1.558s] symbolically linking /home/shreya/masterclass_construct/gazebo-ros2-bridge-project/ros2_ws/build/robot_description/resource/robot_description -> /home/shreya/masterclass_construct/gazebo-ros2-bridge-project/ros2_ws/install/robot_description/share/ament_index/resource_index/packages
+[1.558s] symbolically linking /home/shreya/masterclass_construct/gazebo-ros2-bridge-project/ros2_ws/build/robot_description/package.xml -> /home/shreya/masterclass_construct/gazebo-ros2-bridge-project/ros2_ws/install/robot_description/share/robot_description
+[1.558s] creating /home/shreya/masterclass_construct/gazebo-ros2-bridge-project/ros2_ws/install/robot_description/share/robot_description/urdf
+[1.558s] symbolically linking /home/shreya/masterclass_construct/gazebo-ros2-bridge-project/ros2_ws/build/robot_description/urdf/robot.urdf -> /home/shreya/masterclass_construct/gazebo-ros2-bridge-project/ros2_ws/install/robot_description/share/robot_description/urdf
+[1.559s] creating /home/shreya/masterclass_construct/gazebo-ros2-bridge-project/ros2_ws/install/robot_description/share/robot_description/rviz
+[1.559s] symbolically linking /home/shreya/masterclass_construct/gazebo-ros2-bridge-project/ros2_ws/build/robot_description/rviz/config.rviz -> /home/shreya/masterclass_construct/gazebo-ros2-bridge-project/ros2_ws/install/robot_description/share/robot_description/rviz
+[1.559s] creating /home/shreya/masterclass_construct/gazebo-ros2-bridge-project/ros2_ws/install/robot_description/share/robot_description/meshes
+[1.559s] symbolically linking /home/shreya/masterclass_construct/gazebo-ros2-bridge-project/ros2_ws/build/robot_description/meshes/chassis.stl -> /home/shreya/masterclass_construct/gazebo-ros2-bridge-project/ros2_ws/install/robot_description/share/robot_description/meshes
+[1.559s] symbolically linking /home/shreya/masterclass_construct/gazebo-ros2-bridge-project/ros2_ws/build/robot_description/meshes/wheel.stl -> /home/shreya/masterclass_construct/gazebo-ros2-bridge-project/ros2_ws/install/robot_description/share/robot_description/meshes
+[1.559s] creating /home/shreya/masterclass_construct/gazebo-ros2-bridge-project/ros2_ws/install/robot_description/share/robot_description/launch
+[1.559s] symbolically linking /home/shreya/masterclass_construct/gazebo-ros2-bridge-project/ros2_ws/build/robot_description/launch/rviz.launch.py -> /home/shreya/masterclass_construct/gazebo-ros2-bridge-project/ros2_ws/install/robot_description/share/robot_description/launch
+[1.560s] symbolically linking /home/shreya/masterclass_construct/gazebo-ros2-bridge-project/ros2_ws/build/robot_description/launch/spawn.launch.py -> /home/shreya/masterclass_construct/gazebo-ros2-bridge-project/ros2_ws/install/robot_description/share/robot_description/launch
+[1.560s] symbolically linking /home/shreya/masterclass_construct/gazebo-ros2-bridge-project/ros2_ws/build/robot_description/launch/empty_world.launch.py -> /home/shreya/masterclass_construct/gazebo-ros2-bridge-project/ros2_ws/install/robot_description/share/robot_description/launch
+[1.611s] Invoked command in '/home/shreya/masterclass_construct/gazebo-ros2-bridge-project/ros2_ws/build/robot_description' returned '0': PYTHONPATH=/home/shreya/masterclass_construct/gazebo-ros2-bridge-project/ros2_ws/build/robot_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/shreya/masterclass_construct/gazebo-ros2-bridge-project/ros2_ws/install/robot_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/shreya/masterclass_construct/gazebo-ros2-bridge-project/ros2_ws/build/robot_description/build --no-deps symlink_data

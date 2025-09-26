@@ -1,0 +1,32 @@
+running develop
+running egg_info
+creating robot_description.egg-info
+writing robot_description.egg-info/PKG-INFO
+writing dependency_links to robot_description.egg-info/dependency_links.txt
+writing entry points to robot_description.egg-info/entry_points.txt
+writing requirements to robot_description.egg-info/requires.txt
+writing top-level names to robot_description.egg-info/top_level.txt
+writing manifest file 'robot_description.egg-info/SOURCES.txt'
+reading manifest file 'robot_description.egg-info/SOURCES.txt'
+writing manifest file 'robot_description.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/shreya/masterclass_construct/gazebo-ros2-bridge-project/ros2_ws/install/robot_description/lib/python3.10/site-packages/robot-description.egg-link (link to .)
+
+Installed /home/shreya/masterclass_construct/gazebo-ros2-bridge-project/ros2_ws/build/robot_description
+running symlink_data
+creating /home/shreya/masterclass_construct/gazebo-ros2-bridge-project/ros2_ws/install/robot_description/share/ament_index
+creating /home/shreya/masterclass_construct/gazebo-ros2-bridge-project/ros2_ws/install/robot_description/share/ament_index/resource_index
+creating /home/shreya/masterclass_construct/gazebo-ros2-bridge-project/ros2_ws/install/robot_description/share/ament_index/resource_index/packages
+symbolically linking /home/shreya/masterclass_construct/gazebo-ros2-bridge-project/ros2_ws/build/robot_description/resource/robot_description -> /home/shreya/masterclass_construct/gazebo-ros2-bridge-project/ros2_ws/install/robot_description/share/ament_index/resource_index/packages
+symbolically linking /home/shreya/masterclass_construct/gazebo-ros2-bridge-project/ros2_ws/build/robot_description/package.xml -> /home/shreya/masterclass_construct/gazebo-ros2-bridge-project/ros2_ws/install/robot_description/share/robot_description
+creating /home/shreya/masterclass_construct/gazebo-ros2-bridge-project/ros2_ws/install/robot_description/share/robot_description/urdf
+symbolically linking /home/shreya/masterclass_construct/gazebo-ros2-bridge-project/ros2_ws/build/robot_description/urdf/robot.urdf -> /home/shreya/masterclass_construct/gazebo-ros2-bridge-project/ros2_ws/install/robot_description/share/robot_description/urdf
+creating /home/shreya/masterclass_construct/gazebo-ros2-bridge-project/ros2_ws/install/robot_description/share/robot_description/rviz
+symbolically linking /home/shreya/masterclass_construct/gazebo-ros2-bridge-project/ros2_ws/build/robot_description/rviz/config.rviz -> /home/shreya/masterclass_construct/gazebo-ros2-bridge-project/ros2_ws/install/robot_description/share/robot_description/rviz
+creating /home/shreya/masterclass_construct/gazebo-ros2-bridge-project/ros2_ws/install/robot_description/share/robot_description/meshes
+symbolically linking /home/shreya/masterclass_construct/gazebo-ros2-bridge-project/ros2_ws/build/robot_description/meshes/chassis.stl -> /home/shreya/masterclass_construct/gazebo-ros2-bridge-project/ros2_ws/install/robot_description/share/robot_description/meshes
+symbolically linking /home/shreya/masterclass_construct/gazebo-ros2-bridge-project/ros2_ws/build/robot_description/meshes/wheel.stl -> /home/shreya/masterclass_construct/gazebo-ros2-bridge-project/ros2_ws/install/robot_description/share/robot_description/meshes
+creating /home/shreya/masterclass_construct/gazebo-ros2-bridge-project/ros2_ws/install/robot_description/share/robot_description/launch
+symbolically linking /home/shreya/masterclass_construct/gazebo-ros2-bridge-project/ros2_ws/build/robot_description/launch/rviz.launch.py -> /home/shreya/masterclass_construct/gazebo-ros2-bridge-project/ros2_ws/install/robot_description/share/robot_description/launch
+symbolically linking /home/shreya/masterclass_construct/gazebo-ros2-bridge-project/ros2_ws/build/robot_description/launch/spawn.launch.py -> /home/shreya/masterclass_construct/gazebo-ros2-bridge-project/ros2_ws/install/robot_description/share/robot_description/launch
+symbolically linking /home/shreya/masterclass_construct/gazebo-ros2-bridge-project/ros2_ws/build/robot_description/launch/empty_world.launch.py -> /home/shreya/masterclass_construct/gazebo-ros2-bridge-project/ros2_ws/install/robot_description/share/robot_description/launch
