@@ -27,6 +27,7 @@ setup(
     entry_points={
         'console_scripts': [
             'move_and_scan = robot_description.move_and_scan:main',
+            'display_imu_noe = robot_description.display_imu:main',
         ],
     },
 )
