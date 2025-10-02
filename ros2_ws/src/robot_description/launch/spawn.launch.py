@@ -13,7 +13,8 @@ def generate_launch_description():
     package_directory = get_package_share_directory(package_description)
 
     # Load URDF File #
-    urdf_file = 'robot.urdf'
+    # urdf_file = 'robot.urdf'
+    urdf_file = 'robot.xacro'
     robot_desc_path = os.path.join(package_directory, "urdf", urdf_file)
     print("URDF Loaded !")
 
